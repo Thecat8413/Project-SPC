@@ -1,0 +1,13 @@
+name = "Better Creepers"
+filename = "better-creepers-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rF6T5Zrw/versions/vzffYbgp/better-creepers-1.1.jar"
+hash-format = "sha1"
+hash = "044fa832709ee936e404f2db22ce5afe38912ddc"
+
+[update]
+[update.modrinth]
+mod-id = "rF6T5Zrw"
+version = "vzffYbgp"
