@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -391,6 +391,6 @@ hash = "e37d671b09c8dfd9d658b26e0c7afd255809e5d23f271f9b83d943836728a9e2"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "df2d7a1088e052e070a0b21b7d64e49ff3efcebf206b3a4fc95403ff8a0dba04"
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "cba441f39b87df3e479f870998ecadaa833e847ec91932384def56f02b32362a"
 metafile = true
