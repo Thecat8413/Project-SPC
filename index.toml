@@ -206,6 +206,11 @@ hash = "53bc922e7c8b0c6b22b77ccd6166f0adc5b137c811c68a139552b9b1e8e5906a"
 metafile = true
 
 [[files]]
+file = "mods/frostiful.pw.toml"
+hash = "6e37819f71482636cdbd7bd2308727bb82db62381e7679af4b12d143e2c3d0dd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
 metafile = true
@@ -373,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "cf623c0affd95b844e33d297bf1f28ff27b71ad64cbb5192df52c2e0b45ecf46"
 metafile = true
 
 [[files]]
