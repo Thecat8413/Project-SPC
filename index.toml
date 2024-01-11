@@ -296,6 +296,11 @@ hash = "99264ab472c14ffe1ed418edef931701e06baa85fcc42318cd45892fc8ff7e7f"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
