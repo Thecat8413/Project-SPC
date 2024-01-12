@@ -1,13 +1,13 @@
 name = "Mob Captains"
-filename = "mob-captains-v2.1.2.jar"
+filename = "MobCaptains-v3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7tKn1fLd/versions/kD4h9ccY/mob-captains-v2.1.2.jar"
+url = "https://cdn.modrinth.com/data/7tKn1fLd/versions/yMCetioz/MobCaptains-v3.1.1.jar"
 hash-format = "sha1"
-hash = "5e60c5eb226ff4976ffe708bbf6ce00a8e51fb16"
+hash = "f9bbdd99b31a1d7b49a966e27568ae9493ff5218"
 
 [update]
 [update.modrinth]
 mod-id = "7tKn1fLd"
-version = "kD4h9ccY"
+version = "yMCetioz"
