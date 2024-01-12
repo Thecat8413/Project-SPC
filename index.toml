@@ -76,6 +76,11 @@ hash = "6f3c94c24b727270e851fb923b5347d44b5a401f56c11c8e00beffe099986968"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
 metafile = true
@@ -251,6 +256,11 @@ hash = "db00e88c7969739a30077850545c586108ae26ad0039686fc4d7513b8f4754b7"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
@@ -388,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
 metafile = true
 
 [[files]]
