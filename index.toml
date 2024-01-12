@@ -31,6 +31,11 @@ hash = "9fa8882ae82b94c555f029eb0c078c2d2d286700d8e4467e32301bd13d3e1ee4"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "a86ff7d19c7d45433c3016102fcccffcdd477814a92a78e51c6144d552ad3f1f"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/better-underwater-ruins.pw.toml"
 hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
