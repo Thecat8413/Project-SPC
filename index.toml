@@ -351,6 +351,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/portal-linking-compass.pw.toml"
+hash = "bcd30190fa5abbe0704ae38063b2fe28b931f0d2c8c823e9d64c6e3928d5a9f1"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
