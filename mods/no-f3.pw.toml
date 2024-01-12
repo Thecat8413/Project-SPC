@@ -1,6 +1,6 @@
 name = "no f3"
 filename = "no-f3-1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPFUV2Ds/versions/8mw8OXUF/no-f3-1.jar"
