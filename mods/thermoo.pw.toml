@@ -1,6 +1,6 @@
 name = "Thermoo"
 filename = "thermoo-2.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9TbXlAut/versions/pRg1Rydk/thermoo-2.1.0.jar"

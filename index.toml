@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "cf623c0affd95b844e33d297bf1f28ff27b71ad64cbb5192df52c2e0b45ecf46"
+hash = "01c0153374e05f351c4bf22e72dfdb03d63395e46a93e85f8087a133c2c0ef7e"
 metafile = true
 
 [[files]]
