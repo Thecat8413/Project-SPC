@@ -311,11 +311,6 @@ hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
 
 [[files]]
-file = "mods/no-f3.pw.toml"
-hash = "67e9301121a101a0aceecca8c44f4713b97575d34be4c152fa78e18267d92119"
-metafile = true
-
-[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "fdd25696fa978e719a95eaeda8fd419fff78553f446fbbf509c3985c602be454"
 metafile = true
