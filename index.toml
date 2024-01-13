@@ -71,6 +71,11 @@ hash = "94351a35dbe209d393c08f7aeb8c94c3046bb6d9cda89f8efe1dc3433c83fe6a"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "6f3c94c24b727270e851fb923b5347d44b5a401f56c11c8e00beffe099986968"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -196,6 +206,11 @@ hash = "5408d525a259e43e3a45c3dd4f1e5e733f7529fbbbf2fcdef5918b5ed803a1a0"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-tooltips.pw.toml"
+hash = "f6e6f85e3206bec5f517470446dd62024b520f21d8b2e3484c5af88443718b7d"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -232,12 +252,17 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "9449371ec94ee1084eb23551f373d1cd573691c192c4e91d0c8452ddf3fd03d2"
+hash = "085b07d21501fe266e05269f068dee356ca60e2400c3780819d2e5e496f38fff"
 metafile = true
 
 [[files]]
 file = "mods/healing-bed.pw.toml"
 hash = "0b22994b3ebf60a113aeffe7f38c0d51c45055f7fde3b0f4fbb2446bba912894"
+metafile = true
+
+[[files]]
+file = "mods/health-levels.pw.toml"
+hash = "7bd6e5f94290a64a0a3af335f0c01d33e3be4600f0b8c92e0e14dab95c933086"
 metafile = true
 
 [[files]]
