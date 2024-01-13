@@ -275,6 +275,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "0d38cee2ec80d553009d500268f0fbf68df0ac945e47ed8d380dd88ae581c506"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "db00e88c7969739a30077850545c586108ae26ad0039686fc4d7513b8f4754b7"
 metafile = true
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "fdd25696fa978e719a95eaeda8fd419fff78553f446fbbf509c3985c602be454"
+hash = "a2ffc7aa72362c71345bdce94cc054ba771ac3b85631cb3017c66de989512f92"
 metafile = true
 
 [[files]]

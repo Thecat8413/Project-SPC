@@ -9,7 +9,7 @@ hash = "22eca32e64303bfe04187b6aa09a947fdea04785"
 
 [option]
 optional = true
-description = "This mod requires an NVIDIA Graphics Card to be used. If you do not have one, don't install it"
+description = "This mod requires an NVIDIA Graphics Card 1650 or newer (1080 is to old) to be used. If you do not have one, don't install it. This mod will disable itself if you use an Iris shader."
 
 [update]
 [update.modrinth]
