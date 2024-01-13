@@ -7,6 +7,10 @@ hash-format = "sha1"
 hash = "427b04faee05fab436c52c3618e8e391a010b648"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "Litematica is a schematic mod that doesn't require any server side mods."
+
 [update]
 [update.curseforge]
 file-id = 4626718
