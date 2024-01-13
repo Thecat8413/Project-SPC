@@ -236,6 +236,11 @@ hash = "9449371ec94ee1084eb23551f373d1cd573691c192c4e91d0c8452ddf3fd03d2"
 metafile = true
 
 [[files]]
+file = "mods/healing-bed.pw.toml"
+hash = "0b22994b3ebf60a113aeffe7f38c0d51c45055f7fde3b0f4fbb2446bba912894"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
