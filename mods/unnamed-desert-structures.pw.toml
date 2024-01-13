@@ -1,0 +1,13 @@
+name = "Unnamed Desert Structures"
+filename = "u_desert-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ThFWvdF1/versions/sry7iJRo/u_desert-1.0.0.jar"
+hash-format = "sha1"
+hash = "0c7a8f4ebf4937bb321113329194f189ac394a73"
+
+[update]
+[update.modrinth]
+mod-id = "ThFWvdF1"
+version = "sry7iJRo"

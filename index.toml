@@ -195,6 +195,11 @@ hash = "11c1f4162d513a9ab68c68fd88d5d38925aa5cd8d2b28226a91cef595d1e3be5"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-stronghold-rework.pw.toml"
+hash = "a51057b2ce81bb4b0123ab9f11c53562f5b9715d4b56c14f3fbdcd4268ddd1e1"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
@@ -240,6 +245,16 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "37346d101d26b456e8feead3aa58a97987470f118cc59750d9874fdcc0f06be2"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "1fb6848f2fc67cb20f65b976c18d98bd98774d0a4c3b35af0d61057a984feb3f"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "53bc922e7c8b0c6b22b77ccd6166f0adc5b137c811c68a139552b9b1e8e5906a"
 metafile = true
@@ -247,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/frostiful.pw.toml"
 hash = "6e37819f71482636cdbd7bd2308727bb82db62381e7679af4b12d143e2c3d0dd"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+hash = "fcc8e8e7a6ffcf540b7f40148e85afe675ac514c07ebca2bb0346f5ea0986e52"
 metafile = true
 
 [[files]]
@@ -465,6 +485,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
+metafile = true
+
+[[files]]
 file = "mods/species.pw.toml"
 hash = "6b11bae061fc05b4d0559e9a39a92263648cfb4008e75ace4d594835eca8b42c"
 metafile = true
@@ -490,6 +515,11 @@ hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
+metafile = true
+
+[[files]]
 file = "mods/thermoo.pw.toml"
 hash = "01c0153374e05f351c4bf22e72dfdb03d63395e46a93e85f8087a133c2c0ef7e"
 metafile = true
@@ -507,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/ultris.pw.toml"
 hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-desert-structures.pw.toml"
+hash = "a4f016a7886f7acf0f0e6afe2b154cafe35f9ab808fad6a1801e760a8bfdc9d4"
 metafile = true
 
 [[files]]
