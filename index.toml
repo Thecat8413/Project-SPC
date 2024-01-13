@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/health_levels.json"
+hash = "c9f5d497becdc6d84439228bb5d9a40f80ca50895892cc5a504306c765d49ac1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -63,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
-metafile = true
-
-[[files]]
-file = "mods/body-health-system.pw.toml"
-hash = "94351a35dbe209d393c08f7aeb8c94c3046bb6d9cda89f8efe1dc3433c83fe6a"
 metafile = true
 
 [[files]]
@@ -423,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
+metafile = true
+
+[[files]]
+file = "mods/rpgdifficulty.pw.toml"
+hash = "fe1288f6febffc381c95c906117871bbcdf3a74744126efcc28206d1a314e367"
 metafile = true
 
 [[files]]

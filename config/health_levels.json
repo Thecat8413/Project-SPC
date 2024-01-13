@@ -1,0 +1,19 @@
+{
+  "enableHealthExperienceBar": true,
+  "levelsAndXP": [
+    250,
+    350,
+    500,
+    700,
+    950,
+    1250,
+    1500,
+    2000,
+    2500,
+    3001
+  ],
+  "hpPerLevel": 2,
+  "startingHP": 20,
+  "healOnLevelUp": true,
+  "loseType": "XP"
+}
