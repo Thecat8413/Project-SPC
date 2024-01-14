@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/gazebo/villages.json"
+hash = "1c1589ae8b73a50b2e36c211a833ab93930930f2e150290da0cebec3c7feef5e"
+
+[[files]]
 file = "config/health_levels.json"
 hash = "c9f5d497becdc6d84439228bb5d9a40f80ca50895892cc5a504306c765d49ac1"
+
+[[files]]
+file = "config/rpgdifficulty.json"
+hash = "983b05805f1b76db98cad4b28ad8b809cc99c248a080068fc292a9e039411584"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "9cad1f2acb972ad113b07083bd68fe109959be24932f87d170d413513ef68baf"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "55085fce4cb57e62147be7b5219409f5492d4e5f0dceb3f354206ae39799109d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
