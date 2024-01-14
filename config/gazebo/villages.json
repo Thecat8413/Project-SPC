@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "pool": "minecraft:village/desert/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/desert/gazebo",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    }
+  ]
+}
