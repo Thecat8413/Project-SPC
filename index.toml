@@ -31,11 +31,6 @@ hash = "d19be45db95ff9adf0a5eeefa1366608d39036a70acf153fe248a578a9d7a4be"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "e22d271b8b79ea8905feb043296e85c1445bf50976f4fec24e9f63b475bcf0c3"
-metafile = true
-
-[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
@@ -393,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
