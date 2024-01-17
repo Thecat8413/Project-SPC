@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "fd5fed18ee77d9a0b46808030b57a216f084e018fc5db8d38cc44f93ab5f8206"
+hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
+hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "680b86bbc39ea7ea60518fb9ab70da41070827e8f9debe428b8f06615ab0a8f5"
+hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "f030cdd3f2f19f3b03311cefe8d8adf694962953a102932ab00d884c5b1f558b"
 metafile = true
 
 [[files]]
@@ -617,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/unnamed-desert-structures.pw.toml"
-hash = "a4f016a7886f7acf0f0e6afe2b154cafe35f9ab808fad6a1801e760a8bfdc9d4"
+hash = "23c779bf426ba23d3ab1da4f3201f3ee40995a35cacdac00daade1a0a553bab5"
 metafile = true
 
 [[files]]
@@ -637,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "eb564fa72e6bd9df45a040554926e73c88c43f72b7293def016449199333a860"
+hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
 metafile = true
 
 [[files]]
