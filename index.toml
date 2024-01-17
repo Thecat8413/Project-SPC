@@ -459,6 +459,11 @@ hash = "623f1f195db9836fb92ba30b3f77bde29260b172c1427415a562cfaa86365e71"
 metafile = true
 
 [[files]]
+file = "mods/more-rpg-classes.pw.toml"
+hash = "4f3cddb279f4fb1d5d730f6ec4c0ef27f86b125ec94b78c0b215eb7f6fdec240"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mobs.pw.toml"
 hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
 metafile = true

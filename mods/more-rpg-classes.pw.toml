@@ -1,0 +1,13 @@
+name = "More RPG Classes"
+filename = "more_rpg_classes-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/GDWjBEdv/more_rpg_classes-0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "17c98fa628fa0dcfdf31cad9f3304843273f9b98"
+
+[update]
+[update.modrinth]
+mod-id = "Wkc3lwHo"
+version = "GDWjBEdv"
