@@ -13,6 +13,10 @@ file = "config/health_levels.json"
 hash = "c9f5d497becdc6d84439228bb5d9a40f80ca50895892cc5a504306c765d49ac1"
 
 [[files]]
+file = "config/map_atlases.json5"
+hash = "97c9495cb49ce1ef17e03dd36ac3834a6e3519ac589b96ec1d69acf4c9213dda"
+
+[[files]]
 file = "config/rpgdifficulty.json"
 hash = "983b05805f1b76db98cad4b28ad8b809cc99c248a080068fc292a9e039411584"
 
