@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/brb.toml"
+hash = "d2a1ca0742903106d77d933ff1ad3660954de52d006b2d415a00937452024f77"
+
+[[files]]
 file = "config/gazebo/villages.json"
 hash = "1c1589ae8b73a50b2e36c211a833ab93930930f2e150290da0cebec3c7feef5e"
 
@@ -107,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "6f3c94c24b727270e851fb923b5347d44b5a401f56c11c8e00beffe099986968"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "9684a8bd884d14089563abed3f07635f21226630a5222d530d8d171375e0ac65"
 metafile = true
 
 [[files]]
@@ -505,13 +514,13 @@ hash = "73fa0f7015f038379155c47431a2be5c33ca4871da9f5d1c9f9499868fc13c53"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+file = "mods/rbip.pw.toml"
+hash = "d4c749709cd06e3005cc623ff149a2321be91f6471103337ebbf9d02ba3ba9b7"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
