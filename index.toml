@@ -149,6 +149,11 @@ hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
 metafile = true
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/digs-dnd-origins.pw.toml"
 hash = "11c1f4162d513a9ab68c68fd88d5d38925aa5cd8d2b28226a91cef595d1e3be5"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
 metafile = true
 
 [[files]]
