@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/brb.toml"
+hash = "d2a1ca0742903106d77d933ff1ad3660954de52d006b2d415a00937452024f77"
+
+[[files]]
 file = "config/gazebo/villages.json"
 hash = "1c1589ae8b73a50b2e36c211a833ab93930930f2e150290da0cebec3c7feef5e"
 
