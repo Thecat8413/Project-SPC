@@ -1,0 +1,13 @@
+name = "Prevent Aging"
+filename = "preventaging-1.1-1.19-1.20-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MzzIBU8X/versions/yBaTqAl1/preventaging-1.1-1.19-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "5d283f6ea34c7cc991a447ac9719df24f15676d7"
+
+[update]
+[update.modrinth]
+mod-id = "MzzIBU8X"
+version = "yBaTqAl1"

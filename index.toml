@@ -394,6 +394,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/level-up.pw.toml"
+hash = "fdb234ee40fca6b3eda095b0e882249f6eb8e6a4f5ea18a06481e4c883825f20"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "dc7cf8ba5a76034c494ae30109f081abdad58c0987e524cbdfce561d8baf3afc"
 metafile = true
@@ -474,6 +479,11 @@ hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
 
 [[files]]
+file = "mods/nemos-creatures.pw.toml"
+hash = "ae2f5efc95e96d834f7a45ebee275d1e22da79d7cee1dc3a3d0dadef6e082240"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "a2ffc7aa72362c71345bdce94cc054ba771ac3b85631cb3017c66de989512f92"
 metafile = true
@@ -516,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/portal-linking-compass.pw.toml"
 hash = "bcd30190fa5abbe0704ae38063b2fe28b931f0d2c8c823e9d64c6e3928d5a9f1"
+metafile = true
+
+[[files]]
+file = "mods/prevent-aging.pw.toml"
+hash = "1907fec647c06dc88d7fa6cccb211445dc2911dd324fa61770dba87c969f3604"
 metafile = true
 
 [[files]]

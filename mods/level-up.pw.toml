@@ -1,0 +1,13 @@
+name = "Level Up"
+filename = "level-up-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eL35qVRr/versions/OVp0T2Hj/level-up-1.5.2.jar"
+hash-format = "sha1"
+hash = "1d8f9cfdb288c64db957a16d6e3e41dadcea316b"
+
+[update]
+[update.modrinth]
+mod-id = "eL35qVRr"
+version = "OVp0T2Hj"
