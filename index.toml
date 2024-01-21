@@ -115,11 +115,6 @@ hash = "9684a8bd884d14089563abed3f07635f21226630a5222d530d8d171375e0ac65"
 metafile = true
 
 [[files]]
-file = "mods/bundle-craft.pw.toml"
-hash = "8a6a02387ef5c2ed684c11efe4801326627cc13e31b33c2e451c60c3c9bfda22"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
