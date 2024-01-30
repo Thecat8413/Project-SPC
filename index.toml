@@ -596,11 +596,6 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
-metafile = true
-
-[[files]]
 file = "mods/species.pw.toml"
 hash = "6b11bae061fc05b4d0559e9a39a92263648cfb4008e75ace4d594835eca8b42c"
 metafile = true
