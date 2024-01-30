@@ -21,10 +21,6 @@ file = "config/servercore.toml"
 hash = "9cad1f2acb972ad113b07083bd68fe109959be24932f87d170d413513ef68baf"
 
 [[files]]
-file = "config/sparsestructures.json5"
-hash = "55085fce4cb57e62147be7b5219409f5492d4e5f0dceb3f354206ae39799109d"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -97,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -242,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/darktitlebar.pw.toml"
 hash = "1d23aa5ca75db1d13b206e7cb9f6205739662eba90cbafb6de78cd566bec72a6"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
