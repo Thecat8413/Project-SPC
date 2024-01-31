@@ -1,0 +1,13 @@
+name = "Nemo's Creatures"
+filename = "nemos-creatures-1.5.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gfk2cUFK/versions/zv1rqUnY/nemos-creatures-1.5.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "d8a701dce39d1d552cf7ed6bcd08fd123b7be0e9"
+
+[update]
+[update.modrinth]
+mod-id = "gfk2cUFK"
+version = "zv1rqUnY"

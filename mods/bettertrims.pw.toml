@@ -1,0 +1,13 @@
+name = "BetterTrims"
+filename = "bettertrims-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/Spe731XJ/bettertrims-2.2.2.jar"
+hash-format = "sha1"
+hash = "f920d373e6a75df07192d4dcce4d7e06cbc66b14"
+
+[update]
+[update.modrinth]
+mod-id = "98ytUvlc"
+version = "Spe731XJ"
