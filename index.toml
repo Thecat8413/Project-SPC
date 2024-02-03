@@ -46,6 +46,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
 metafile = true
@@ -53,6 +58,16 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "9fa8882ae82b94c555f029eb0c078c2d2d286700d8e4467e32301bd13d3e1ee4"
+metafile = true
+
+[[files]]
+file = "mods/backslot.pw.toml"
+hash = "642740635598b2354077b21b6cac0aa1585030944f6cd1c799c862b6bedc469f"
+metafile = true
+
+[[files]]
+file = "mods/backslotaddon.pw.toml"
+hash = "7e4bbcc9f93b5716cf113e1162a3bb52f8f099a8f1b7113d21b7e9b18b0bd0fe"
 metafile = true
 
 [[files]]
@@ -411,6 +426,11 @@ hash = "fdb234ee40fca6b3eda095b0e882249f6eb8e6a4f5ea18a06481e4c883825f20"
 metafile = true
 
 [[files]]
+file = "mods/libz.pw.toml"
+hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "dc7cf8ba5a76034c494ae30109f081abdad58c0987e524cbdfce561d8baf3afc"
 metafile = true
@@ -418,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/lookin-sharp.pw.toml"
-hash = "40ef741e68a25ec01f96ac1655c189ad4168233e19983f25cd42b06852dab0d8"
 metafile = true
 
 [[files]]
@@ -673,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "a5fcee61763576758c6b8dbae2eaa0c292ea5bb3dcd41dd16c8ff10a4c02171e"
 metafile = true
 
 [[files]]
