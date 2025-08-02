@@ -306,6 +306,11 @@ hash = "1960f3b822cc191840992b2140ab5afd3ce86bdba73e50a18672561dc0545b3d"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "7d8b7d6b21e9ce2685282ca9e2f2baa4c29fc020fd46f087481c11abee0bf15b"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "847f37c7d8c3b529674d7811b076c7d7c80c3c075adb7a099ab8864fe1e7a55f"
 metafile = true
