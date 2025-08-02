@@ -1,0 +1,13 @@
+name = "LevelZ Additions"
+filename = "Levelz-Additions-1.20.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2VVZrl3/versions/JYYvtDtr/Levelz-Additions-1.20.1-2.1.1.jar"
+hash-format = "sha1"
+hash = "88b07d668066e07aa602cc0d1060e8f5a55308a3"
+
+[update]
+[update.modrinth]
+mod-id = "D2VVZrl3"
+version = "JYYvtDtr"

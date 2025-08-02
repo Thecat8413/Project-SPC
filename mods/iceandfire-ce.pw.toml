@@ -1,0 +1,13 @@
+name = "IceAndFire Community Edition"
+filename = "IceAndFireCE-1.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/i7bEabpP/IceAndFireCE-1.1-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "e53ac830fd879aa9f106e6eb4c7d9e69d49d46f7"
+
+[update]
+[update.modrinth]
+mod-id = "VpmCsizY"
+version = "i7bEabpP"
