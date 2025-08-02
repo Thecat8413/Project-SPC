@@ -580,11 +580,6 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
-file = "mods/philips-biome-features.pw.toml"
-hash = "364ad3153e253b507600ffab2db14e4034fb1790ba02f414a1a93d0039f294c0"
-metafile = true
-
-[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "9429b79caa688e6c57abfe8598a3399a7f5941491018c4442e6c6d3f41f220f3"
 metafile = true
