@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/levelz.json5"
+hash = "61aa191d343aa334b6620e7264e9155165f2e78c102bed1db87fe533baaa2e2d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
@@ -83,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "55dafb40b64b7a4b426035f51c050685189070e50aaaf66fe76b9e16a60e57fd"
 metafile = true
 
 [[files]]
@@ -271,6 +280,11 @@ hash = "204c49355f10eeb60a62090f8da0a23dd695a9a9bd5b4deb5ad9e0639bcbb8df"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "ce32d8b4c3dce5b957678b6db62316ad998d20b39bf1d5d0a9110fc390296d69"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "96fc1d9886dacdbcaf6c500ffee4b07bec93c789efa7d9666721ce9cc55d780b"
 metafile = true
@@ -378,16 +392,6 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "61a140350d2f9f0615abfce35866d0f4e6055ae3de131471599bd1d807b98f49"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "a770a3f3a21f0b670816d89cbcbfdeb44ffdaee48d2e1d93ee6053b55006acfb"
 metafile = true
 
 [[files]]
@@ -628,9 +632,4 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "75c96fd1939fb762364bc483fc04004b077819536303960c35767747d79807fe"
-metafile = true
-
-[[files]]
-file = "mods/zombies-plus-frenzied-horde.pw.toml"
-hash = "69ead9f68b95d52d3709f7f6333645b46e87973e53ab6fe70b6eff7e3e4f8c64"
 metafile = true
