@@ -355,11 +355,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "ab2a13243d26ffd924da6b5bac988459b9f5fc31d14f4ed8c93aad15fe354803"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4f917fdd8207f6d52ab51ed86a23517eaf336bad48963c4bad05d6d233a2c2f5"
 metafile = true
@@ -382,11 +377,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f3b03f70ace792c105a4a6f62adc509ea6f2c4dd915eaa92184753aea0bf89dd"
-metafile = true
-
-[[files]]
-file = "mods/frostiful.pw.toml"
-hash = "31debdc5b3f34599e7641d421a253d92f5966d20956a3b4f741824f810c39a8f"
 metafile = true
 
 [[files]]
@@ -635,11 +625,6 @@ hash = "62e178be5be5d817798747bda65689def5c0bc6d6804005f9ee97695887f8aa3"
 metafile = true
 
 [[files]]
-file = "mods/rpgdifficulty.pw.toml"
-hash = "61084fcfa2eadf2e1b41d2082d905af294325a901a977748cd3c14a38a8d62e6"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
@@ -647,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/scorched.pw.toml"
 hash = "001a2013141654cc69bdfca0e45f72e0c08b673cc0d8036f37fd9cf9fe2fcbd6"
-metafile = true
-
-[[files]]
-file = "mods/scorchful.pw.toml"
-hash = "d690f8d5c7204f1173576f922bce88b088254ff848fffde0722f74ec001f5f48"
 metafile = true
 
 [[files]]
@@ -752,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
-metafile = true
-
-[[files]]
-file = "mods/thermoo.pw.toml"
-hash = "55d283a0f893de8e1bb0b1efa77b43fd74472477ec523730e546878d1985c66e"
 metafile = true
 
 [[files]]
