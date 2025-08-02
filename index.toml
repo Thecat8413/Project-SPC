@@ -70,8 +70,23 @@ hash = "4f2d4fbd4bb3c450b795562e8c52c5d0dca12651f80d0f908fec26aa8f23008a"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "b64a86a3fa5dd467d1c83f7c094313ad8e6a335a9c73a2c9521c03b5a93d7673"
+metafile = true
+
+[[files]]
 file = "mods/beneath-the-wetlands.pw.toml"
 hash = "0c8a04c0f673823249c2d0f6894184d474318682a9ec4957e0d216dcef467265"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
 
 [[files]]
@@ -85,8 +100,18 @@ hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
@@ -95,8 +120,18 @@ hash = "55dafb40b64b7a4b426035f51c050685189070e50aaaf66fe76b9e16a60e57fd"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "230202fc2f3e586cb8dcb44e971c27c3fd1efb649f2d3bd8edaa64fb453ba9b3"
+metafile = true
+
+[[files]]
+file = "mods/camps_castles_carriages.pw.toml"
+hash = "ed5a649b99041a0f25b9607dc46fb38c58550283a8a0dcc80185a8f11fd85ebb"
 metafile = true
 
 [[files]]
@@ -165,6 +200,41 @@ hash = "e2f93443a2736baed3a8866a9ad6b39d2f446803e4c7582aab30f2150f2b54cf"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "7efa55d7b8eeccbc1eccb65c47d96dff5585346cd9c098f02063ee3545eebe54"
+metafile = true
+
+[[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "d32052d1510b96b5138e158f01bd5e6fcecd42ebce1af34b11aa211965800f98"
+metafile = true
+
+[[files]]
+file = "mods/ctov-gazebo-compat.pw.toml"
+hash = "2bc66889f6f6cc7b823b1f26db193f5ba3eb9e0568d10c30ba58d8049ea17dae"
+metafile = true
+
+[[files]]
+file = "mods/ctov-paladins-n-priests-compat.pw.toml"
+hash = "11be057519a291fa5d2dfc58b6e7c9ed2b406e6026dca028a33a867c1d54c34d"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
+hash = "5b1b64ddd9e3a41c72bd1db07ab69cdaa058d210a13218cc97b2d7c8b5ed1af6"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
@@ -215,6 +285,11 @@ hash = "5c71f35190bd128b348e8c06cd781f7c10a0e52527c8f92dd8dea94dbb33f2a4"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "72631f00c7bbaee63ced573f42df14d049e364822dbb97e071ea85c19d43fc71"
 metafile = true
@@ -227,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
 metafile = true
 
 [[files]]
@@ -322,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/jupiter.pw.toml"
 hash = "19ee6adbdbf7b3ad60e08d14d78cbebd05ba45a9d85b1daf0bfb8e7709f9cc83"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
@@ -575,6 +660,11 @@ hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "7f48aa6cf5038ca8d8c81cbe563db70ce02533b0a3468347dc75d83bc4a63723"
 metafile = true
@@ -625,8 +715,18 @@ hash = "c2330daf331231bb1bc6c68e13e6046b891b784dc0b6008aa497abc2bd67c06e"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "58aa6f9e8041a3e6c5a5ee79e4fbd42185de5e32434172c3465da394a5eb7b19"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
 metafile = true
 
 [[files]]
