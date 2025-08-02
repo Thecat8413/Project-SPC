@@ -6,11 +6,6 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "3e6a050d5cf16d07d8a8d8bb2e849c65de05ef6ea6a9fdc67698c59594840d74"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -196,11 +191,6 @@ hash = "d02444f12cf3ba67a2e3d20914bf307acf8a1dabcfc94fdaa4e1ec1c381fd01b"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "9e2c0318920e14a69f804c201595c63dc68b59414c9f712203c21c21b848d7b1"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "5dd727ddc699b0d46729cde9328185b5acc90d7574c15bca2c19465def389eb8"
 metafile = true
@@ -238,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08902e50822ad4fe53c50ba8cc288efc8f4452f7c55023a6cf3dbee95f8be131"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "cecc4685aafaf26c05cd6b20809611d04ec3c3ed079ffdcc9938c2acec2c11e2"
 metafile = true
 
 [[files]]
