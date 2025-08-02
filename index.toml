@@ -516,11 +516,6 @@ hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
-file = "mods/syzs-rpg-mobs.pw.toml"
-hash = "17e833452c0f2669b1add3510fcf78795c3798add10fca8444dc8f108c0a9c8f"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "7f48aa6cf5038ca8d8c81cbe563db70ce02533b0a3468347dc75d83bc4a63723"
 metafile = true
