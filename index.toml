@@ -11,6 +11,11 @@ hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "230202fc2f3e586cb8dcb44e971c27c3fd1efb649f2d3bd8edaa64fb453ba9b3"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "a6e5d0edf7eb56b23f94acd67eb56ebb449a8ceea40b93f084acfb19736181e6"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -238,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "a36e0e121105fa7b0f3895c06c9dc4ac430da107eba6d687ecf843527b16bd43"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "5f2c9009f446c8bee3c715181320a459217b486f5b3bd989f3b2ea58a4b9e935"
 metafile = true
 
 [[files]]
@@ -291,6 +311,11 @@ hash = "19ee6adbdbf7b3ad60e08d14d78cbebd05ba45a9d85b1daf0bfb8e7709f9cc83"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "45e028ff56e8720d07cd84415fd7f93078fc3b05402beb2282b403d35d1280d6"
 metafile = true
@@ -341,6 +366,11 @@ hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "5dd727ddc699b0d46729cde9328185b5acc90d7574c15bca2c19465def389eb8"
 metafile = true
@@ -388,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "188fa444c9ba1d7129cf04be4cf7e5f95e4a6199acdaa879572db42b3482eeea"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "bc993366823b4ad89543b0e433489194e6393ed2e40c507104566dceabe26638"
 metafile = true
 
 [[files]]
@@ -451,6 +486,11 @@ hash = "d690f8d5c7204f1173576f922bce88b088254ff848fffde0722f74ec001f5f48"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
+metafile = true
+
+[[files]]
 file = "mods/shield-api.pw.toml"
 hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
 metafile = true
@@ -471,8 +511,18 @@ hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "4080c5c6a21004a5dd4e5d4e3eb4a1936f131d397376f6ad70b78c3986573054"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a79479b63793564bb10b0169e4d4a82276c52e636dae201afe2fd3047e473f89"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "65bbfa63a0d6f483f55e77590e0b8ce03084a65ed44085ae5de556905675a9dc"
 metafile = true
 
 [[files]]
@@ -503,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
