@@ -6,8 +6,18 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ hash = "779fa504c1fced78924326adbc6af46eb3c5ef4aa103e5599d3bfb17b014a5ad"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "72631f00c7bbaee63ced573f42df14d049e364822dbb97e071ea85c19d43fc71"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
 metafile = true
@@ -216,6 +231,16 @@ hash = "5dd727ddc699b0d46729cde9328185b5acc90d7574c15bca2c19465def389eb8"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "61a140350d2f9f0615abfce35866d0f4e6055ae3de131471599bd1d807b98f49"
 metafile = true
@@ -273,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08902e50822ad4fe53c50ba8cc288efc8f4452f7c55023a6cf3dbee95f8be131"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "291b7b250e4466a1c1cc55e7d584ed6462a328018332e044ca67cff70192fa1a"
 metafile = true
 
 [[files]]
