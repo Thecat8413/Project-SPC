@@ -76,11 +76,6 @@ hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
