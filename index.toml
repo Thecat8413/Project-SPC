@@ -131,6 +131,11 @@ hash = "6ecfbc71109df7f66186fa00376ddd4880593706eb7c149d6c1097545378d726"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a53d620daca2a01628ea584be083bddd8c429aa6938f907b0faf6ec8dd0d3de"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f3b03f70ace792c105a4a6f62adc509ea6f2c4dd915eaa92184753aea0bf89dd"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "31debdc5b3f34599e7641d421a253d92f5966d20956a3b4f741824f810c39a8f"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "188fa444c9ba1d7129cf04be4cf7e5f95e4a6199acdaa879572db42b3482eeea"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f0e88961cede6cba727ab6afbe46e95194242fd84976c6167e75c4d6a6118abf"
 metafile = true
@@ -268,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/rpgdifficulty.pw.toml"
 hash = "61084fcfa2eadf2e1b41d2082d905af294325a901a977748cd3c14a38a8d62e6"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "d690f8d5c7204f1173576f922bce88b088254ff848fffde0722f74ec001f5f48"
 metafile = true
 
 [[files]]
@@ -318,6 +338,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "75092f6c62bf9befd6996ba0ac729f862b9bc869b1f3fee096a9a4bd176115d5"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "55d283a0f893de8e1bb0b1efa77b43fd74472477ec523730e546878d1985c66e"
 metafile = true
 
 [[files]]
