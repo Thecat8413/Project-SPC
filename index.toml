@@ -186,6 +186,11 @@ hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1960f3b822cc191840992b2140ab5afd3ce86bdba73e50a18672561dc0545b3d"
+metafile = true
+
+[[files]]
 file = "mods/mobs-of-mythology.pw.toml"
 hash = "d02444f12cf3ba67a2e3d20914bf307acf8a1dabcfc94fdaa4e1ec1c381fd01b"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "56dd4892d5f617b8ff4a58f93e0cc73c21bd4dd3224b9d16f4d297881f7d2b94"
+hash = "a770a3f3a21f0b670816d89cbcbfdeb44ffdaee48d2e1d93ee6053b55006acfb"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "1eafe78871eb78c4c25635c1668de901d81f3dc7cb8f7c21c5be9a481c359fa2"
+hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
 metafile = true
 
 [[files]]
