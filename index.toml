@@ -10,6 +10,16 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "53991f63f19a41b6f16571dc6a94530998d5202235960673cfcad2c3478db59b"
+metafile = true
+
+[[files]]
+file = "mods/adorabuild-structures.pw.toml"
+hash = "e418577b19d589279729bf7d0f6ac0bafe5e22546ba1d27ee9be12b40c9454b9"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
 metafile = true
@@ -57,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "aca176774a49cbede6d241ab62a510e0df0844995584d064b26c606ab5ce0f56"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "311530cf2361c60f021cb7b12507258593e8844000bc2bce953fc0a65f68e764"
 metafile = true
 
 [[files]]
@@ -265,6 +280,11 @@ hash = "6ecfbc71109df7f66186fa00376ddd4880593706eb7c149d6c1097545378d726"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
@@ -282,6 +302,16 @@ metafile = true
 [[files]]
 file = "mods/eternal-attributes.pw.toml"
 hash = "5c71f35190bd128b348e8c06cd781f7c10a0e52527c8f92dd8dea94dbb33f2a4"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+hash = "e06ff2e7f56ee630eab82f92ed0fad7e9c676aecc0891b6bb769d7a051581317"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
 metafile = true
 
 [[files]]
@@ -330,6 +360,26 @@ hash = "ab2a13243d26ffd924da6b5bac988459b9f5fc31d14f4ed8c93aad15fe354803"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4f917fdd8207f6d52ab51ed86a23517eaf336bad48963c4bad05d6d233a2c2f5"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "48e27884150ca9b0ff7df9a6244be04b4a25c53ce9bb7613b1fbd34e218f13ea"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "96740e1799cfbb26445e86ddf2ad1e539a2bfb7cf525eec923f96854edd40208"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "3aa34d20ffc02f96dc2eee51905586cf6b49abbcbf989a7006938edddffaaf7b"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f3b03f70ace792c105a4a6f62adc509ea6f2c4dd915eaa92184753aea0bf89dd"
 metafile = true
@@ -372,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "60d1e1f1fba15b867ad72395c302317d4a4803fe0fd59aa41c214c267c7d66de"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "67e3ed3ae67c78b53d299d6584ebd48f9745771e572da5efd9ceb9409c0838a6"
 metafile = true
 
 [[files]]
@@ -520,6 +575,16 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/philips-biome-features.pw.toml"
+hash = "364ad3153e253b507600ffab2db14e4034fb1790ba02f414a1a93d0039f294c0"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "9429b79caa688e6c57abfe8598a3399a7f5941491018c4442e6c6d3f41f220f3"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "eb1f17b945bdebb071c58431575153ab4fa55a32aaf81832444036d7a97addaa"
 metafile = true
@@ -530,6 +595,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "564e8d3f7d32b162104bdfe8063dadf1cbacdce55d90705e31dce4c1eb3d220b"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
 metafile = true
@@ -537,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "b2f1d6a7e7aff0cdc741f4f55166e2686e2a224a2195e6fe053fdb331b11a623"
 metafile = true
 
 [[files]]
@@ -722,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "49c6806f4c5e553881fd4d5d2dbf93b4d510f54ac32de79e207a5e9b73d3df6e"
 metafile = true
 
 [[files]]
