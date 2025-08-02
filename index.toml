@@ -56,6 +56,11 @@ hash = "3434644d16d75380ee8c8d00743d9c65a57d059d4853e56e7e98289c3fddf6aa"
 metafile = true
 
 [[files]]
+file = "mods/battle-towers.pw.toml"
+hash = "4f2d4fbd4bb3c450b795562e8c52c5d0dca12651f80d0f908fec26aa8f23008a"
+metafile = true
+
+[[files]]
 file = "mods/beneath-the-wetlands.pw.toml"
 hash = "0c8a04c0f673823249c2d0f6894184d474318682a9ec4957e0d216dcef467265"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "a36e0e121105fa7b0f3895c06c9dc4ac430da107eba6d687ecf843527b16bd43"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+hash = "fcc8e8e7a6ffcf540b7f40148e85afe675ac514c07ebca2bb0346f5ea0986e52"
 metafile = true
 
 [[files]]
@@ -493,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
