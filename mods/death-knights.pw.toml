@@ -1,0 +1,13 @@
+name = "Death Knights (RPG Series)"
+filename = "death_knights-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EQER1gD/versions/3uS9blRi/death_knights-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "61511112de79a2e712b9a7520e9b7807ad19c190"
+
+[update]
+[update.modrinth]
+mod-id = "2EQER1gD"
+version = "3uS9blRi"

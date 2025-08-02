@@ -21,6 +21,11 @@ hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "feb80b5cbdb34d7bf27da3db5b090eefccb1607fcd482cf684f54f7a92e975c9"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -36,6 +41,11 @@ hash = "01e216cc2de5e5bc8f01f6333e546f72eb0aa563fc830ef0712072d3d113c06c"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "8fc1f594220597d48211568b52ab9f12055c6af2fb12b735f32e902703e4bffd"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "aca176774a49cbede6d241ab62a510e0df0844995584d064b26c606ab5ce0f56"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/beneath-the-wetlands.pw.toml"
 hash = "0c8a04c0f673823249c2d0f6894184d474318682a9ec4957e0d216dcef467265"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "0998161f34280a8e4c4d7858bfc5879c111794003ed4c29e5a90eb19e08a579a"
 metafile = true
 
 [[files]]
@@ -131,6 +146,11 @@ hash = "cff2667130603d5b74f26270ac07fe60cbc669038779fb5aaf48d5b26f4f5ac1"
 metafile = true
 
 [[files]]
+file = "mods/death-knights.pw.toml"
+hash = "60494be2875b66ae8c585ae5f5c5f9ecbf785709fc6ea2fdf0f2fe386630a254"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "422cc3ea4b34aea69a84479e69320157dac1ce82ed6deeafdf25780d911e0ad9"
 metafile = true
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "779fa504c1fced78924326adbc6af46eb3c5ef4aa103e5599d3bfb17b014a5ad"
+metafile = true
+
+[[files]]
+file = "mods/eternal-attributes.pw.toml"
+hash = "5c71f35190bd128b348e8c06cd781f7c10a0e52527c8f92dd8dea94dbb33f2a4"
 metafile = true
 
 [[files]]
@@ -236,6 +261,11 @@ hash = "0c76ff10971db8501866e5d2f855e6a466838e5b123fbd72bbf35ed3dd4a32ad"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "7e60ec08ec7f5158d5e185f4451c076b833d0252d9a67a4d8c6f4c8bd41e49bf"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "cc25ededaab4a0258c7032a675e9ffc54eac83c4a4f75d93e4034bfbeb0c05b7"
 metafile = true
@@ -291,6 +321,11 @@ hash = "d02444f12cf3ba67a2e3d20914bf307acf8a1dabcfc94fdaa4e1ec1c381fd01b"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "5dd727ddc699b0d46729cde9328185b5acc90d7574c15bca2c19465def389eb8"
 metafile = true
@@ -331,6 +366,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "e1647886ccde50488b67936cbc819b36c408a70fe8cf664b8525d0458b1b4cba"
+metafile = true
+
+[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "188fa444c9ba1d7129cf04be4cf7e5f95e4a6199acdaa879572db42b3482eeea"
 metafile = true
@@ -351,6 +391,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f0e88961cede6cba727ab6afbe46e95194242fd84976c6167e75c4d6a6118abf"
 metafile = true
@@ -358,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "bf3647185fc2dd1d4c81f1c4af51f9162b8eaf2ac901f155119592875dc060b6"
 metafile = true
 
 [[files]]
@@ -371,6 +421,11 @@ hash = "61084fcfa2eadf2e1b41d2082d905af294325a901a977748cd3c14a38a8d62e6"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
+metafile = true
+
+[[files]]
 file = "mods/scorched.pw.toml"
 hash = "001a2013141654cc69bdfca0e45f72e0c08b673cc0d8036f37fd9cf9fe2fcbd6"
 metafile = true
@@ -378,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/scorchful.pw.toml"
 hash = "d690f8d5c7204f1173576f922bce88b088254ff848fffde0722f74ec001f5f48"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
 metafile = true
 
 [[files]]
@@ -488,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "d2f442a145cb2bce9f2a486d118a4a254c17ec27cc06c60a361f97bb685b7e14"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "75c96fd1939fb762364bc483fc04004b077819536303960c35767747d79807fe"
 metafile = true
 
 [[files]]
