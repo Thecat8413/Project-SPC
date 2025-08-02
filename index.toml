@@ -156,11 +156,6 @@ hash = "60494be2875b66ae8c585ae5f5c5f9ecbf785709fc6ea2fdf0f2fe386630a254"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "422cc3ea4b34aea69a84479e69320157dac1ce82ed6deeafdf25780d911e0ad9"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
@@ -373,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
