@@ -371,6 +371,11 @@ hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
 
 [[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "7544cbd3c839606eca3c3d5019de82364b2345893758c74e9a161a69d78e779c"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
