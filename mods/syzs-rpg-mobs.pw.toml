@@ -1,0 +1,13 @@
+name = "Syz's RPG Mobs"
+filename = "rpgmobs-0.31-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DVUewdim/versions/rVyC9r94/rpgmobs-0.31-1.20.1.jar"
+hash-format = "sha1"
+hash = "ce069d9615f32f888cfdfde8c65db228c4803efd"
+
+[update]
+[update.modrinth]
+mod-id = "DVUewdim"
+version = "rVyC9r94"

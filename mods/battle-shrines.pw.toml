@@ -1,0 +1,13 @@
+name = "Battle Shrines"
+filename = "battle-shrines-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPtbLLdZ/versions/3jLPWiyu/battle-shrines-1.0.0.jar"
+hash-format = "sha1"
+hash = "06211bf70c1a3b9fd5ac29d4e3b38f2b585a740e"
+
+[update]
+[update.modrinth]
+mod-id = "uPtbLLdZ"
+version = "3jLPWiyu"

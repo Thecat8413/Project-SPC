@@ -1,0 +1,13 @@
+name = "Copper Golem Mod"
+filename = "coppergolem-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvd7vyoL/versions/kp7jb5KD/coppergolem-1.7.0.jar"
+hash-format = "sha1"
+hash = "fc9718e558cb7bb6b4a7c42084868fe47fcdfbdc"
+
+[update]
+[update.modrinth]
+mod-id = "fvd7vyoL"
+version = "kp7jb5KD"
