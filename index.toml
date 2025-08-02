@@ -780,11 +780,6 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/upgraded-mobs.pw.toml"
-hash = "81a6ea1afdc996ba91cdc815d0d13b6b463b7f4c53f5b133b601ffc1e7393b03"
-metafile = true
-
-[[files]]
 file = "mods/uranus.pw.toml"
 hash = "c2330daf331231bb1bc6c68e13e6046b891b784dc0b6008aa497abc2bd67c06e"
 metafile = true
