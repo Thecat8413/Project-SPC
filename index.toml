@@ -316,11 +316,6 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "45e028ff56e8720d07cd84415fd7f93078fc3b05402beb2282b403d35d1280d6"
-metafile = true
-
-[[files]]
 file = "mods/levelz-additions.pw.toml"
 hash = "badfcf5142b88ce2b7058f4be9aa5be5b5a7c38a73ce8f13f54811db2fb3dbb1"
 metafile = true
