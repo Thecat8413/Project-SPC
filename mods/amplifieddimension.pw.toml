@@ -1,0 +1,13 @@
+name = "Amplified Dimension"
+filename = "amplifieddimension-fabric-0.0.1+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/y4wxFDPW/versions/FLd10rJo/amplifieddimension-fabric-0.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "13f4edd194f6c8bc35eebcfd4c33118846077de5"
+
+[update]
+[update.modrinth]
+mod-id = "y4wxFDPW"
+version = "FLd10rJo"

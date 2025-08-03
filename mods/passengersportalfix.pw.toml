@@ -1,0 +1,13 @@
+name = "Passengers Portal Fix"
+filename = "passengersportalfix-fabric-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LI0BrUQA/versions/aQ6ucraw/passengersportalfix-fabric-0.0.1.jar"
+hash-format = "sha1"
+hash = "95580444f42ec8305739c62d3c3f2531564b9f8b"
+
+[update]
+[update.modrinth]
+mod-id = "LI0BrUQA"
+version = "aQ6ucraw"
