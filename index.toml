@@ -30,11 +30,6 @@ hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
 metafile = true
 
 [[files]]
-file = "mods/amplifieddimension.pw.toml"
-hash = "6f60359a7df7783108e02996a7907135d8cfd71ecd0090836d4c60ec55823322"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -272,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/death-knights.pw.toml"
 hash = "60494be2875b66ae8c585ae5f5c5f9ecbf785709fc6ea2fdf0f2fe386630a254"
-metafile = true
-
-[[files]]
-file = "mods/dimensionfixer.pw.toml"
-hash = "ca9e6101d7f3a5dbb7e5dc3b393f0145118979c4914981bb704c27aceb45b8e7"
 metafile = true
 
 [[files]]
@@ -605,11 +595,6 @@ hash = "bc993366823b4ad89543b0e433489194e6393ed2e40c507104566dceabe26638"
 metafile = true
 
 [[files]]
-file = "mods/passengersportalfix.pw.toml"
-hash = "1de1890f5755774001c9808f150bd8e13c549988cf38aecaf402c88acae88fbb"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
@@ -790,11 +775,6 @@ hash = "75092f6c62bf9befd6996ba0ac729f862b9bc869b1f3fee096a9a4bd176115d5"
 metafile = true
 
 [[files]]
-file = "mods/the-afterdark.pw.toml"
-hash = "bc7ab0e4e63cc8e6c37c8ac1a205774be871a1d41732a5fffdb68b196a546b04"
-metafile = true
-
-[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
 metafile = true
@@ -862,11 +842,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "75c96fd1939fb762364bc483fc04004b077819536303960c35767747d79807fe"
-metafile = true
-
-[[files]]
-file = "mods/worldportal.pw.toml"
-hash = "598d7f70a10aba2c8fa11ceddc23a8248702fd9f1d29115a1bf3d407ccc0ce46"
 metafile = true
 
 [[files]]
