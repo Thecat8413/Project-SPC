@@ -755,6 +755,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7c7afe7a0bcc7b5d40a8cab53911d2670ad0e3c083fcdfbe6df9095c7331ae4b"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "c2330daf331231bb1bc6c68e13e6046b891b784dc0b6008aa497abc2bd67c06e"
 metafile = true
