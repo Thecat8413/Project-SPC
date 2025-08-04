@@ -515,6 +515,11 @@ hash = "7d8b7d6b21e9ce2685282ca9e2f2baa4c29fc020fd46f087481c11abee0bf15b"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
