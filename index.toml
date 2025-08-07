@@ -10,6 +10,11 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "53991f63f19a41b6f16571dc6a94530998d5202235960673cfcad2c3478db59b"
 metafile = true
@@ -872,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "7f48aa6cf5038ca8d8c81cbe563db70ce02533b0a3468347dc75d83bc4a63723"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "75092f6c62bf9befd6996ba0ac729f862b9bc869b1f3fee096a9a4bd176115d5"
 metafile = true
 
 [[files]]
