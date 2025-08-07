@@ -10,16 +10,6 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
-metafile = true
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "53991f63f19a41b6f16571dc6a94530998d5202235960673cfcad2c3478db59b"
 metafile = true
@@ -32,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/adventurez.pw.toml"
 hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "82c1060d8bdc3066e9cbbad005f3aac9d7cc705860e1bb711834319670dea10f"
 metafile = true
 
 [[files]]
@@ -145,11 +140,6 @@ hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "55dafb40b64b7a4b426035f51c050685189070e50aaaf66fe76b9e16a60e57fd"
-metafile = true
-
-[[files]]
 file = "mods/blood-mages-more-magic-series.pw.toml"
 hash = "50907e707187f6bfad7f6ec7caf38ba2d41c1d03ab26a39c578b3e88979f09cf"
 metafile = true
@@ -187,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
-metafile = true
-
-[[files]]
-file = "mods/collar-trinkets.pw.toml"
-hash = "647b986942082b173178fe3be40c0b88b3886b96013cf9bd7ee7be5eed55f13a"
 metafile = true
 
 [[files]]
@@ -705,11 +690,6 @@ hash = "4d7578a0a41e239d76c27e4a9dcedeb9ba587e76df1dae9f89aa86b9353201f2"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "188fa444c9ba1d7129cf04be4cf7e5f95e4a6199acdaa879572db42b3482eeea"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "bc993366823b4ad89543b0e433489194e6393ed2e40c507104566dceabe26638"
 metafile = true
@@ -895,8 +875,8 @@ hash = "7f48aa6cf5038ca8d8c81cbe563db70ce02533b0a3468347dc75d83bc4a63723"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "75092f6c62bf9befd6996ba0ac729f862b9bc869b1f3fee096a9a4bd176115d5"
+file = "mods/terralith.pw.toml"
+hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
@@ -912,16 +892,6 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "9a6e7db741034a56e7596b6a7909d39c4e71d989ef21682a9a69328cdc48c8b4"
-metafile = true
-
-[[files]]
-file = "mods/the-cursed-trinkets-index-more-magic-series.pw.toml"
-hash = "4827dce8c51a4bf48f2eff51c03ed94a71fd12d9c402d3a56f9d9f62fd053225"
-metafile = true
-
-[[files]]
-file = "mods/the-dark-artifacts-catalogue-more-magic-series.pw.toml"
-hash = "db1ac0d546fd37f2e7f8220dcd313b651dc933eb58d9324068b78a37bd0e6356"
 metafile = true
 
 [[files]]
@@ -992,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "49c6806f4c5e553881fd4d5d2dbf93b4d510f54ac32de79e207a5e9b73d3df6e"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "72ef835bcebdf1810dde617b62ef5ce0e30e2a7cf29ec896c6f675e36b9856a7"
 metafile = true
 
 [[files]]
