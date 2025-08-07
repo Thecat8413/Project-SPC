@@ -1,0 +1,13 @@
+name = "Fallen Paladins and Priests [More Magic Series]"
+filename = "fpapmod-2.2.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PjK1ZOiw/versions/ORLAbSMK/fpapmod-2.2.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "bc11d54401ef84997755fbf08219b7fcd855705e"
+
+[update]
+[update.modrinth]
+mod-id = "PjK1ZOiw"
+version = "ORLAbSMK"

@@ -1,0 +1,13 @@
+name = "Blood Mages [More Magic Series]"
+filename = "blood_mages-0.0.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ieB1lff9/versions/sTZWEGGz/blood_mages-0.0.8-1.20.1.jar"
+hash-format = "sha1"
+hash = "9cee4bf4373bc79331eb64750a09bb0f8c7e83f1"
+
+[update]
+[update.modrinth]
+mod-id = "ieB1lff9"
+version = "sTZWEGGz"

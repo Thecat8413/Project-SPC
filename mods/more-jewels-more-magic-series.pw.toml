@@ -1,0 +1,13 @@
+name = "More Jewels [More Magic Series]"
+filename = "more_jewels-0.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETJGOhvj/versions/hEvV7eWz/more_jewels-0.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "51c5044d0f04a5f85a1c234ed37d63299b2d3585"
+
+[update]
+[update.modrinth]
+mod-id = "ETJGOhvj"
+version = "hEvV7eWz"

@@ -145,6 +145,16 @@ hash = "55dafb40b64b7a4b426035f51c050685189070e50aaaf66fe76b9e16a60e57fd"
 metafile = true
 
 [[files]]
+file = "mods/blood-mages-more-magic-series.pw.toml"
+hash = "50907e707187f6bfad7f6ec7caf38ba2d41c1d03ab26a39c578b3e88979f09cf"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
 metafile = true
@@ -162,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "00cd668a5a8cf6147414469efc3348ac0ed748af0e76db8c5ecb35c908e402b0"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "385ee7f5887723079f5c8c80b4ff1e5cb8325163dc44ecfd8bdae68c961ba21b"
 metafile = true
 
 [[files]]
@@ -315,8 +330,18 @@ hash = "60b7b74c75d7aa69e4818198c65470b17913a616b9ad16d2e8ae48bdeebcd318"
 metafile = true
 
 [[files]]
+file = "mods/elemental-metals-magical-metallurgy-series.pw.toml"
+hash = "093d2c40695666c0e1949a709fb607f8f1236811db9baabd1a1ef44c5f344253"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "5e514443bc51728acc923e5879874bd0317376e0e25b5738f374093d839f9f33"
 metafile = true
 
 [[files]]
@@ -367,6 +392,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
+metafile = true
+
+[[files]]
+file = "mods/fallen-paladins-and-priests.pw.toml"
+hash = "dd92f6389c97c64df2b94ba0df4c6376a0b6244934d75b1589101e6e7573aeb5"
+metafile = true
+
+[[files]]
+file = "mods/fallen-wizards-more-magic-series.pw.toml"
+hash = "87b1585f16a7c9f504c72d92f57bbb06ff98718c6f968d42c4edd1ecac22e5ea"
 metafile = true
 
 [[files]]
@@ -495,6 +530,11 @@ hash = "7e60ec08ec7f5158d5e185f4451c076b833d0252d9a67a4d8c6f4c8bd41e49bf"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "cc25ededaab4a0258c7032a675e9ffc54eac83c4a4f75d93e4034bfbeb0c05b7"
 metafile = true
@@ -575,6 +615,11 @@ hash = "99bba94b8b8053232eb15b898521cd5fd9fe22f25a772d7d98b8ec200956462f"
 metafile = true
 
 [[files]]
+file = "mods/more-jewels-more-magic-series.pw.toml"
+hash = "d79723c493931efdd00d48571c9b794ec5c6c76401fc86fc66c91a58e5295f7d"
+metafile = true
+
+[[files]]
 file = "mods/more-runes-more-magic-series.pw.toml"
 hash = "7df509ed8d67d3f0a97d150964271eda344935509822fd567c191b0b17b95b3d"
 metafile = true
@@ -582,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/more-spell-attributes-more-magic-series.pw.toml"
 hash = "d5bcfb9ae177902c54d1ab11a3e463dfc8a7e93ea1a4536f85018ed8a8b1c9eb"
+metafile = true
+
+[[files]]
+file = "mods/more-wizards-more-magic-series.pw.toml"
+hash = "e0ad3aca3a1ce849ad526578a925d12b081d323626ab0a57398f166c4fbfe917"
 metafile = true
 
 [[files]]
@@ -825,6 +875,11 @@ hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "745688ee68f89316effdf7c93df1153282b8c1cd87ecb27767041de79482d5e3"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "7f48aa6cf5038ca8d8c81cbe563db70ce02533b0a3468347dc75d83bc4a63723"
 metafile = true
@@ -855,6 +910,11 @@ hash = "4827dce8c51a4bf48f2eff51c03ed94a71fd12d9c402d3a56f9d9f62fd053225"
 metafile = true
 
 [[files]]
+file = "mods/the-dark-artifacts-catalogue-more-magic-series.pw.toml"
+hash = "db1ac0d546fd37f2e7f8220dcd313b651dc933eb58d9324068b78a37bd0e6356"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
 metafile = true
@@ -862,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/the-great-alchemical-compendium.pw.toml"
 hash = "fde319b49bcd29929749f6f3cba8bf4bd4a467e61c84af3724192c7682b09127"
+metafile = true
+
+[[files]]
+file = "mods/the-secret-alchemical-parchment-more-magic-series.pw.toml"
+hash = "5e93547c5d7872dd5c080e1f8f172bc027aa79a3540be4e3e2bc7b5f2edf2a5e"
 metafile = true
 
 [[files]]

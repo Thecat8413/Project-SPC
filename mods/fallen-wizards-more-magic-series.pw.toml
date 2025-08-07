@@ -1,0 +1,13 @@
+name = "Fallen Wizards [More Magic Series]"
+filename = "fallenwizardsmod-0.1.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SLhfoy0B/versions/LB5NVZba/fallenwizardsmod-0.1.7-1.20.1.jar"
+hash-format = "sha1"
+hash = "788e1a013898d90528d0a4f15d9f9bddf7b93caf"
+
+[update]
+[update.modrinth]
+mod-id = "SLhfoy0B"
+version = "LB5NVZba"

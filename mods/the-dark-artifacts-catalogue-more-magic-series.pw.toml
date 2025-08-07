@@ -1,0 +1,13 @@
+name = "The Dark Artifacts Catalogue [More Magic Series]"
+filename = "tdacmod-0.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBSHALKK/versions/5RskHu4Y/tdacmod-0.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "5d106a581a1f657b92108560c5c2dfff58fbb9a3"
+
+[update]
+[update.modrinth]
+mod-id = "mBSHALKK"
+version = "5RskHu4Y"
