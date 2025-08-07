@@ -610,6 +610,11 @@ hash = "d02444f12cf3ba67a2e3d20914bf307acf8a1dabcfc94fdaa4e1ec1c381fd01b"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/more-craftings-of-runes.pw.toml"
 hash = "99bba94b8b8053232eb15b898521cd5fd9fe22f25a772d7d98b8ec200956462f"
 metafile = true
