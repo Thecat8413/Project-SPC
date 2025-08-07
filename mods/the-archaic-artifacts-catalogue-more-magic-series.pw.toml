@@ -1,0 +1,13 @@
+name = "The Archaic Artifacts Catalogue [More Magic Series]"
+filename = "taacmod-0.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bDA9ozpC/versions/LQ0EI9z1/taacmod-0.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "a8c3a0f16cd52bc17766feea4fee414076dd1768"
+
+[update]
+[update.modrinth]
+mod-id = "bDA9ozpC"
+version = "LQ0EI9z1"

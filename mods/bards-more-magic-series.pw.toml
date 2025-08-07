@@ -1,0 +1,13 @@
+name = "Bards [More Magic Series]"
+filename = "bards-0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v6TwRuh6/versions/SzZBWJaj/bards-0.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "0c6cf9356a1e47af6d3e7df3a08518e0f39836f1"
+
+[update]
+[update.modrinth]
+mod-id = "v6TwRuh6"
+version = "SzZBWJaj"

@@ -1,0 +1,13 @@
+name = "More Runes [More Magic Series]"
+filename = "morerunesmod-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWXVAgkl/versions/d892Ks5Z/morerunesmod-0.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "5064a55e1d812fd2ecf8c8ea0f4e1aad7c097398"
+
+[update]
+[update.modrinth]
+mod-id = "LWXVAgkl"
+version = "d892Ks5Z"

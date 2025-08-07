@@ -1,0 +1,13 @@
+name = "More Spell Attributes [More Magic Series]"
+filename = "more_spell_attributes-0.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7YR5Db9/versions/o6lSLz3i/more_spell_attributes-0.0.5-1.20.1.jar"
+hash-format = "sha1"
+hash = "444da3c9c306848101e86234983a5e289bcd0a43"
+
+[update]
+[update.modrinth]
+mod-id = "z7YR5Db9"
+version = "o6lSLz3i"

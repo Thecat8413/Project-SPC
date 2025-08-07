@@ -10,6 +10,11 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "53991f63f19a41b6f16571dc6a94530998d5202235960673cfcad2c3478db59b"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "311530cf2361c60f021cb7b12507258593e8844000bc2bce953fc0a65f68e764"
+metafile = true
+
+[[files]]
+file = "mods/bards-more-magic-series.pw.toml"
+hash = "3c4d6a33b1aa0b0ae12a0944d04f0e26f2b02eb0d9c768d37e6b0c37c803b31a"
 metafile = true
 
 [[files]]
@@ -160,6 +170,11 @@ hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
+file = "mods/collar-trinkets.pw.toml"
+hash = "647b986942082b173178fe3be40c0b88b3886b96013cf9bd7ee7be5eed55f13a"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
 metafile = true
@@ -172,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "aa8a079e0fd34a785fd1b6d051e1ab970a4878abf0e5592a2ef1304352ff7185"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
@@ -270,6 +290,11 @@ hash = "60494be2875b66ae8c585ae5f5c5f9ecbf785709fc6ea2fdf0f2fe386630a254"
 metafile = true
 
 [[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "ff9f21a1c0235f3ca6aa132ea0040030f332bfaecbf6a4d63957f1c7042c7b77"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
@@ -277,6 +302,16 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "473cc7b1500818f0c49a87fee6cb21d94490f9ee30ce81a4e9401278a9d3c1e7"
+metafile = true
+
+[[files]]
+file = "mods/dragonsteel-more-magic-series.pw.toml"
+hash = "4729e6bda3d7c72e7bc0c1e18b1e5dfd9fe5e4ca5013ed8589779bd547a4ffc8"
+metafile = true
+
+[[files]]
+file = "mods/druids-more-magic-series.pw.toml"
+hash = "60b7b74c75d7aa69e4818198c65470b17913a616b9ad16d2e8ae48bdeebcd318"
 metafile = true
 
 [[files]]
@@ -535,6 +570,21 @@ hash = "d02444f12cf3ba67a2e3d20914bf307acf8a1dabcfc94fdaa4e1ec1c381fd01b"
 metafile = true
 
 [[files]]
+file = "mods/more-craftings-of-runes.pw.toml"
+hash = "99bba94b8b8053232eb15b898521cd5fd9fe22f25a772d7d98b8ec200956462f"
+metafile = true
+
+[[files]]
+file = "mods/more-runes-more-magic-series.pw.toml"
+hash = "7df509ed8d67d3f0a97d150964271eda344935509822fd567c191b0b17b95b3d"
+metafile = true
+
+[[files]]
+file = "mods/more-spell-attributes-more-magic-series.pw.toml"
+hash = "d5bcfb9ae177902c54d1ab11a3e463dfc8a7e93ea1a4536f85018ed8a8b1c9eb"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
@@ -587,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "e1647886ccde50488b67936cbc819b36c408a70fe8cf664b8525d0458b1b4cba"
+metafile = true
+
+[[files]]
+file = "mods/pale-garden-backport.pw.toml"
+hash = "4d7578a0a41e239d76c27e4a9dcedeb9ba587e76df1dae9f89aa86b9353201f2"
 metafile = true
 
 [[files]]
@@ -780,8 +835,38 @@ hash = "75092f6c62bf9befd6996ba0ac729f862b9bc869b1f3fee096a9a4bd176115d5"
 metafile = true
 
 [[files]]
+file = "mods/the-ancient-trinkets-index.pw.toml"
+hash = "93199d8f73b271be9037d06f9ad418c3022754a16548482d5bc1dbefaac1c652"
+metafile = true
+
+[[files]]
+file = "mods/the-archaic-artifacts-catalogue-more-magic-series.pw.toml"
+hash = "8a2326fefb6f0008e57f72bb48a425c9738057e3c07cbb87e29db994a1764bf0"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "9a6e7db741034a56e7596b6a7909d39c4e71d989ef21682a9a69328cdc48c8b4"
+metafile = true
+
+[[files]]
+file = "mods/the-cursed-trinkets-index-more-magic-series.pw.toml"
+hash = "4827dce8c51a4bf48f2eff51c03ed94a71fd12d9c402d3a56f9d9f62fd053225"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
+metafile = true
+
+[[files]]
+file = "mods/the-great-alchemical-compendium.pw.toml"
+hash = "fde319b49bcd29929749f6f3cba8bf4bd4a467e61c84af3724192c7682b09127"
+metafile = true
+
+[[files]]
+file = "mods/thecopperrail.pw.toml"
+hash = "32ede42249660f81498ca4f2b1a2e495e9d064042c33135df883634d1abaf480"
 metafile = true
 
 [[files]]
