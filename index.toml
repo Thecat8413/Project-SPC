@@ -10,6 +10,11 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
 metafile = true
@@ -555,6 +560,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
+metafile = true
+
+[[files]]
 file = "mods/levelz-additions.pw.toml"
 hash = "badfcf5142b88ce2b7058f4be9aa5be5b5a7c38a73ce8f13f54811db2fb3dbb1"
 metafile = true
@@ -687,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -937,6 +952,11 @@ metafile = true
 [[files]]
 file = "mods/thecopperrail.pw.toml"
 hash = "32ede42249660f81498ca4f2b1a2e495e9d064042c33135df883634d1abaf480"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
